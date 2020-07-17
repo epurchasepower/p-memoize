@@ -42,7 +42,7 @@
 	],
 	"dependencies": {
 		"mem": "^6.0.1",
-		"mimic-fn": "^3.0.0"
+		"mimic-fn": "https://github.com/jjd314/p-memoize.git#react-native"
 	},
 	"devDependencies": {
 		"ava": "^1.4.1",
